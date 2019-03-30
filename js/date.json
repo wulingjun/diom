@@ -1,0 +1,21 @@
+{
+"boxIcons":[
+			["fa-clock-o","时钟","#096"],
+			["fa-calendar-check-o","日历","#069"],
+			["fa-cube","魔方","#39c"],
+			["fa-diamond","钻石","#9ff"],
+			["fa-coffee","咖啡","#c69"],
+			["fa-eye","眼睛","#f39"],
+			["fa-feed","无线","#fc6"],
+			["fa-flag","旗帜","#f93"],
+			["fa-gear","设置","#f0f"],
+			["fa-lock","锁屏","#f39"]
+		],
+"footerIcons":[
+			["fa-wechat","微信","#cff"],
+			["fa-weibo","微博","#cf3"],
+			["fa-qq","QQ","#c66"],
+			["fa-renren","人人","#9c9"],
+			["fa-firefox","火狐","#3cf"]
+		]
+ }
